@@ -1,0 +1,14 @@
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\bin\Debug\BBUPro.exe.config
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\bin\Debug\BBUPro.exe
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\bin\Debug\BBUPro.pdb
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\bin\Debug\Oracle.DataAccess.dll
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.csproj.AssemblyReference.cache
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.frmMain.resources
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.Properties.Resources.resources
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.csproj.GenerateResource.cache
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.csproj.CoreCompileInputs.cache
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.csproj.CopyComplete
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.exe
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.pdb
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\bin\Debug\Guna.UI2.dll
+E:\Keep From Piphub PC\BBU University\3-2-BBU Y3 P21S2\3-Oracle Project\Assignment\BBUPro\BBUPro\obj\Debug\BBUPro.form.category.frmCategory.resources
